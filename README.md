@@ -2,9 +2,7 @@
 
 <h4 align="center">Here are my skills</h4>
 Certificates from Netology <br>
-- Python <a href="twitter-url">
-		<img src="https://img.shields.io/badge/T" alt="Twitter"/>
-	</a>
+- Python <a href="https://github.com/MIKEYTRE/MIKEYTRE/blob/main/python.pdf">Certificate</a>
 - 
 
 <!--
