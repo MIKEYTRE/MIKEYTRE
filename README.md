@@ -2,14 +2,15 @@
 
 <h4 align="left">Here are my skills</h4>
 
-
+- Pentest <a href="https://github.com/MIKEYTRE/MIKEYTRE/blob/main/Diploma%20Pentest">Diploma</a><br>
+- Example2 <a href="https://github.com/MIKEYTRE/MIKEYTRE/blob/main/Diploma%20Pentest">Example2</a><br>
 
 
 Certificates from Netology <br>
-- Python <a href="https://github.com/MIKEYTRE/MIKEYTRE/blob/main/python.pdf">Certificate</a><br>
-- Git <a href="https://github.com/MIKEYTRE/MIKEYTRE/blob/main/github.pdf">Certificate</a><br>
-- Group IB <a href="https://github.com/MIKEYTRE/MIKEYTRE/blob/main/GIB_Certificate_2023.pdf">Certificate</a><br>
-- Fundamentals of information security <a href="https://github.com/MIKEYTRE/MIKEYTRE/blob/main/Course.pdf">Certificate</a><br>
+- Python. <a href="https://github.com/MIKEYTRE/MIKEYTRE/blob/main/python.pdf">Certificate</a><br>
+- Git. <a href="https://github.com/MIKEYTRE/MIKEYTRE/blob/main/github.pdf">Certificate</a><br>
+- Group IB. <a href="https://github.com/MIKEYTRE/MIKEYTRE/blob/main/GIB_Certificate_2023.pdf">Certificate</a><br>
+- Fundamentals of information security. <a href="https://github.com/MIKEYTRE/MIKEYTRE/blob/main/Course.pdf">Certificate</a><br>
 
 
 
