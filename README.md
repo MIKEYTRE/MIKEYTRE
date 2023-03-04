@@ -1,4 +1,11 @@
-### Hi there 👋
+<h3 align="center">Hi there! My name is Maksim and i'm beginner pentester</h3>
+
+<h4 align="center">Here are my skills</h4>
+Certificates from Netology
+- Python <a href="twitter-url">
+		<img src="https://img.shields.io/badge/T" alt="Twitter"/>
+	</a>
+- 
 
 <!--
 **MIKEYTRE/MIKEYTRE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
