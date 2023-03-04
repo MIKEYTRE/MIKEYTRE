@@ -1,6 +1,6 @@
 <h3 align="center">Hi there! My name is Maksim and i'm beginner pentester</h3>
 
-<h4 align="center">Here are my skills</h4>
+<h4 align="left">Here are my skills</h4>
 Certificates from Netology <br>
 - Python <a href="https://github.com/MIKEYTRE/MIKEYTRE/blob/main/python.pdf">Certificate</a><br>
 - Git <a href="https://github.com/MIKEYTRE/MIKEYTRE/blob/main/github.pdf">Certificate</a><br>
